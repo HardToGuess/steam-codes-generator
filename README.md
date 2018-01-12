@@ -1,8 +1,11 @@
 # steam-two-factor-code-generator
 
-> Steam two-factor codes generator
+> Steam two-factor auth codes generator. To generate codes, you must provide 'shared secret' of your Steam account/bot account. Built using Electron and Vue.js.
 
-#### Build Setup
+#### Download setup and install (Windows)
+[Releases page](https://github.com/HardToGuess/steam-codes-generator/releases)
+
+#### Build Setup (from sources)
 
 ``` bash
 # install dependencies
